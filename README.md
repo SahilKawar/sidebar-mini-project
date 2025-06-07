@@ -41,7 +41,4 @@ I created this as a mini project to understand how we can use a hidden checkbox 
 
 You don’t need anything special to run this.
 
-Just download or clone the repo:
-
-```bash
-git clone https://github.com/yourusername/sidebar-mini-project.git
+Just download or clone the repo
